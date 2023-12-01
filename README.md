@@ -5,4 +5,4 @@ Download the exe file from the link : https://github.com/Th3DarkOn3/nolvus_folde
 
 As explained in the manual on the official website ( https://www.nolvus.net/guide/asc/dir ) create the Nolvus folder, put the exe file in it and run it.
 
-Once you create the folders you can delete it and continue in the procedure.
+Once you create the folders you can delete it and continue the procedure.
